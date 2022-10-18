@@ -75,6 +75,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mariadriana-deemaze/mariadriana-deemaze/blob/output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/mariadriana-deemaze/mariadriana-deemaze/output/snake.svg" alt="Snake animation" />
 ###
