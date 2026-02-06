@@ -36,12 +36,19 @@
 <br/>
 <br/>
 <br/>
-<p align="center">
-~ 🎧 ~
-</p>
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1172061454&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0a0a0a&interchange=false&bar_color=ff6a1a&bar_color_cover=false" alt="Spotify Profile" style="border:1px solid #FFFFFF1A; border-radius:5px;"/>
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <p align="center">~ 🎧 ~</p>
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1172061454&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0a0a0a&interchange=false&bar_color=ff6a1a&bar_color_cover=false" alt="Spotify Profile" style="border:1px solid #FFFFFF1A; border-radius:5px;"/>
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <p align="center">~ 🎮 ~</p>
+      <a href="https://discord.com/users/556990290993479687" target="_blank">
+        <img src="https://lanyard.cnrad.dev/api/556990290993479687?hideDiscrim=true&bg=1f1f1f&borderRadius=6px&hideProfile=true&hideDiscord=true" alt="Discord Presence" />
+      </a>
+    </td>
+  </tr>
+</table>
