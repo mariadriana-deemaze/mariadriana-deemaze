@@ -47,7 +47,7 @@
     <td width="50%" align="center" valign="top">
       <p align="center">~ 🎮 ~</p>
       <a href="https://discord.com/users/556990290993479687" target="_blank">
-        <img src="https://lanyard.cnrad.dev/api/556990290993479687?hideDiscrim=true&bg=1f1f1f&borderRadius=6px&hideProfile=true&hideDiscord=true" alt="Discord Presence" />
+        <img src="https://lanyard.cnrad.dev/api/556990290993479687?hideDiscrim=true&bg=1f1f1f&borderRadius=6px&hideProfile=true&hideSpotify=true" alt="Discord Presence" />
       </a>
     </td>
   </tr>
